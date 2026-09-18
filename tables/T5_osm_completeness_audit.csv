@@ -1,0 +1,7 @@
+OSM object class,1 Jan 2023,1 Jan 2026,Change,Change %
+Metro Line 1 stations,14,14,0,0.0
+Bus/PT stop objects,894,2324,1430,160.0
+  of which highway=bus_stop,808,2207,1399,173.1
+  of which public_transport=platform,677,2192,1515,223.8
+Commercial POIs,7456,9255,1799,24.1
+Highway ways,57933,66990,9057,15.6

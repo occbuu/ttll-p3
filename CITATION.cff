@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: >-
+  Habit, Not Infrastructure: Motorcycle Lock-In and
+  Micro-Enterprise Vulnerability as a Behavioural Baseline
+  on the Eve of Metro Line 1 Operation in Ho Chi Minh City
+message: If you use this repository, please cite it as below.
+type: software
+authors:
+  - family-names: Lê
+    given-names: Ngọc Hiếu
+    orcid: "https://orcid.org/0000-0002-1133-1433"
+    affiliation: >-
+      Faculty of Information Technology 2, Posts and
+      Telecommunications Institute of Technology, Ho Chi Minh City,
+      Viet Nam; University of Health Sciences, Viet Nam National
+      University Ho Chi Minh City, Viet Nam
+    email: lnhieu@ptit.edu.vn
+identifiers: []
+repository-code: ""
+url: ""
+abstract: >-
+  Replication package for the Truong Tho Living Lab Paper 3
+  analysis: survey-derived barrier structure, OpenStreetMap
+  accessibility measures, logistic and cross-validated
+  classifiers of motorcycle dependence, micro-enterprise
+  exposure, and the resident–official diagnostic gap.
+keywords:
+  - travel habit
+  - socio-technical lock-in
+  - motorcycle dependence
+  - metro
+  - micro-enterprise
+  - OpenStreetMap
+  - Ho Chi Minh City
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-09-18"

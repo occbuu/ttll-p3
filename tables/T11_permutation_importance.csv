@@ -1,0 +1,13 @@
+Predictor,Mean AUC drop,SD
+Household income (5 ordered bands),0.0998,0.0268
+Age (years),0.0418,0.0143
+Road density within 500 m (per 1000 m/km2),0.0195,0.0107
+"Distance to nearest PT stop, 2023 (per 100 m)",0.0192,0.0113
+Own-account business owner (ref: other),0.0152,0.0098
+"Network walking distance to stop, 2023 (per 100 m)",0.0115,0.0071
+Distance to nearest Metro Line 1 station (per 100 m),0.0114,0.0083
+"Detour ratio, 2023 (per 0.1)",0.0112,0.0093
+Commercial POIs within 1 km (per 10),0.0028,0.0035
+Education (7 ordered levels),0.0012,0.0023
+Commute time (4 ordered bands),0.0005,0.0012
+Female (ref: male),0.0004,0.0051

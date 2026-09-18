@@ -1,0 +1,6 @@
+Grouping,n,chi2,df,p,Cramer V,% behavioural (min-max across groups)
+Household income (5 bands),446,19.92,12,0.069,0.122,48–80
+Education (7 levels),446,71.35,18,0.0,0.231,43–84
+Age tercile,446,17.11,6,0.009,0.139,59–76
+Sex,446,2.75,3,0.431,0.079,67–73
+Commute time,361,13.48,9,0.142,0.112,52–74

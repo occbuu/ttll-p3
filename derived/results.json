@@ -1,0 +1,310 @@
+{
+ "n_citizens": 460,
+ "n_smes": 80,
+ "n_auth": 23,
+ "n_moto": 384,
+ "pct_moto": 83.5,
+ "n_geo_cit": 459,
+ "pct_bus_mode": 1.7,
+ "n_behav": 313,
+ "n_infra": 51,
+ "n_walk": 71,
+ "n_serv": 11,
+ "n_user": 14,
+ "pct_behav": 68.0,
+ "pct_infra": 11.1,
+ "pct_walk": 15.4,
+ "pct_behav_nb": 70.2,
+ "pct_infra_nb": 11.4,
+ "ratio_behav_infra": 6.1,
+ "ratio_wide": 7.5,
+ "ci_behav": [
+  63.6,
+  72.1
+ ],
+ "ci_infra": [
+  8.5,
+  14.3
+ ],
+ "n_metro_2023": 14,
+ "n_metro_2026_line1": 14,
+ "metro_max_shift_m": 31.8,
+ "bus_2023": 894,
+ "bus_2026": 2324,
+ "bus_growth_pct": 160.0,
+ "med_dbus23": 290.0,
+ "med_dbus26": 140.0,
+ "med_net23": 425.0,
+ "med_net26": 238.0,
+ "med_delta": 98.0,
+ "med_detour23": 1.42,
+ "med_dmetro": 1612.0,
+ "n_treated": 112,
+ "pct_treated": 24.4,
+ "kw": {
+  "2023 straight-line distance to nearest PT stop (m)": {
+   "H": 8.48,
+   "p": "0.075",
+   "eps2": 0.01
+  },
+  "2023 network walking distance to stop (m)": {
+   "H": 6.7,
+   "p": "0.153",
+   "eps2": 0.006
+  },
+  "2023 detour ratio": {
+   "H": 5.7,
+   "p": "0.223",
+   "eps2": 0.004
+  },
+  "Distance to nearest Metro Line 1 station (m)": {
+   "H": 19.02,
+   "p": "0.001",
+   "eps2": 0.034
+  },
+  "Change in mapped PT accessibility 2023-2026 (m)": {
+   "H": 11.61,
+   "p": "0.021",
+   "eps2": 0.017
+  },
+  "Commercial POIs within 1 km (2023)": {
+   "H": 7.02,
+   "p": "0.135",
+   "eps2": 0.007
+  },
+  "Road density within 500 m (m/km2)": {
+   "H": 4.29,
+   "p": "0.368",
+   "eps2": 0.001
+  }
+ },
+ "walk_tests": {
+  "2023 straight-line distance to stop (m)": "0.732",
+  "2023 network walking distance (m)": "0.835",
+  "2023 detour ratio": "0.977",
+  "2026 network walking distance (m)": "0.980",
+  "2026 detour ratio": "0.082",
+  "Road density within 500 m (m/km2)": "0.235"
+ },
+ "logit_n": 368,
+ "logit_pseudo_r2": 0.094,
+ "logit_llr_p": "0.0042",
+ "logit_income_p": "0.005",
+ "logit_income_or": 1.76,
+ "logit_sig": [
+  "Household income (5 ordered bands)",
+  "Age (years)"
+ ],
+ "ml": [
+  {
+   "Model": "Logistic regression",
+   "CV ROC-AUC": 0.635,
+   "AUC SD across folds": 0.038,
+   "Accuracy": 0.853,
+   "Majority-class accuracy": 0.853,
+   "Brier score": 0.123
+  },
+  {
+   "Model": "Random forest",
+   "CV ROC-AUC": 0.623,
+   "AUC SD across folds": 0.035,
+   "Accuracy": 0.812,
+   "Majority-class accuracy": 0.853,
+   "Brier score": 0.146
+  },
+  {
+   "Model": "Gradient boosting",
+   "CV ROC-AUC": 0.61,
+   "AUC SD across folds": 0.073,
+   "Accuracy": 0.832,
+   "Majority-class accuracy": 0.853,
+   "Brier score": 0.135
+  }
+ ],
+ "base_rate": 0.853,
+ "best_model": "Logistic regression",
+ "top_features": [
+  [
+   "Household income (5 ordered bands)",
+   0.0998
+  ],
+  [
+   "Age (years)",
+   0.0418
+  ],
+  [
+   "Road density within 500 m (per 1000 m/km2)",
+   0.0195
+  ],
+  [
+   "Distance to nearest PT stop, 2023 (per 100 m)",
+   0.0192
+  ]
+ ],
+ "sme_micro": 75,
+ "sme_b2c": 70,
+ "sme_med_dmetro": 1239.0,
+ "sme_exposure": {
+  ">1000 m": 50,
+  "500–1000 m": 18,
+  "<500 m": 12
+ },
+ "sme_perc": {
+  "Q4.7 My business has a competitive advantage here": [
+   3.04,
+   0.77,
+   "0.698"
+  ],
+  "Q4.8 I intend to keep trading at this location": [
+   3.69,
+   0.67,
+   "0.545"
+  ],
+  "Q4.9 Changes in this area are positive": [
+   3.71,
+   0.56,
+   "0.824"
+  ],
+  "Q4.10 SME support policy is effective": [
+   3.29,
+   0.87,
+   "0.037"
+  ],
+  "Q4.11 Legal/administrative support is adequate": [
+   3.05,
+   0.69,
+   "0.956"
+  ]
+ },
+ "sme_k": 4,
+ "sme_sil": {
+  "2": 0.137,
+  "3": 0.165,
+  "4": 0.22,
+  "5": 0.176
+ },
+ "sme_cluster_n": {
+  "0": 50,
+  "1": 15,
+  "2": 5,
+  "3": 10
+ },
+ "gap_chi2": 129.56,
+ "gap_p": "0.0000",
+ "gap_dof": 3,
+ "aut_top_reason": "Travel takes too long",
+ "aut_top_n": 12,
+ "aut_behav_n": 4,
+ "aut_n_answered": 21,
+ "aut_noop": 2,
+ "aut_q211": {
+  "Không ý kiến": 14,
+  "Đồng ý": 8,
+  "Rất đồng ý": 1
+ },
+ "pci": [
+  {
+   "Year": 2021,
+   "Sub-index": "Business Support Policy",
+   "HCMC score": 8.54,
+   "National median": 6.85,
+   "National mean": 7.54,
+   "HCMC rank (of provinces scored)": 2,
+   "Provinces scored": 68
+  },
+  {
+   "Year": 2022,
+   "Sub-index": "Business Support Policy",
+   "HCMC score": 7.04,
+   "National median": 5.82,
+   "National mean": 6.35,
+   "HCMC rank (of provinces scored)": 2,
+   "Provinces scored": 68
+  },
+  {
+   "Year": 2023,
+   "Sub-index": "Business Support Policy",
+   "HCMC score": 7.37,
+   "National median": 6.45,
+   "National mean": 6.39,
+   "HCMC rank (of provinces scored)": 8,
+   "Provinces scored": 67
+  },
+  {
+   "Year": 2024,
+   "Sub-index": "Business Support Policy",
+   "HCMC score": 7.81,
+   "National median": 7.18,
+   "National mean": 7.86,
+   "HCMC rank (of provinces scored)": 13,
+   "Provinces scored": 68
+  },
+  {
+   "Year": 2025,
+   "Sub-index": "Business & labour support (new 9-index frame)",
+   "HCMC score": 5.61,
+   "National median": 5.43,
+   "National mean": 5.46,
+   "HCMC rank (of provinces scored)": 14,
+   "Provinces scored": 37
+  }
+ ],
+ "pop_growth_kw": {
+  "H": 39.01,
+  "p": "0.000"
+ },
+ "built_bands": [
+  {
+   "d_metro_m_osm2026": "<500 m",
+   "n": 46,
+   "pop_2020": 167.915,
+   "pop_2025": 190.629,
+   "built_2020": 4104.0,
+   "built_2025": 4104.0,
+   "ndbi_2023": 0.036,
+   "ndbi_2026": 0.047,
+   "d_ndbi": 0.011,
+   "pop growth %": 13.5,
+   "built-up growth %": 0.0
+  },
+  {
+   "d_metro_m_osm2026": "500–1000 m",
+   "n": 66,
+   "pop_2020": 200.911,
+   "pop_2025": 226.631,
+   "built_2020": 4517.5,
+   "built_2025": 4517.5,
+   "ndbi_2023": 0.074,
+   "ndbi_2026": 0.08,
+   "d_ndbi": 0.011,
+   "pop growth %": 12.8,
+   "built-up growth %": 0.0
+  },
+  {
+   "d_metro_m_osm2026": "1000–1500 m",
+   "n": 86,
+   "pop_2020": 186.857,
+   "pop_2025": 212.133,
+   "built_2020": 4682.0,
+   "built_2025": 4682.0,
+   "ndbi_2023": 0.066,
+   "ndbi_2026": 0.073,
+   "d_ndbi": 0.005,
+   "pop growth %": 13.5,
+   "built-up growth %": 0.0
+  },
+  {
+   "d_metro_m_osm2026": ">1500 m",
+   "n": 261,
+   "pop_2020": 178.265,
+   "pop_2025": 202.379,
+   "built_2020": 4655.0,
+   "built_2025": 4655.0,
+   "ndbi_2023": 0.106,
+   "ndbi_2026": 0.115,
+   "d_ndbi": 0.012,
+   "pop growth %": 13.5,
+   "built-up growth %": 0.0
+  }
+ ]
+}

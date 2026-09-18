@@ -1,0 +1,6 @@
+Variable,2023 median [IQR],2026 median [IQR],Median change,Wilcoxon p
+Straight-line distance to nearest PT stop (m),289.60 [145.42–547.70],139.74 [75.34–224.65],-98.02,1.53e-57
+Network walking distance to nearest PT stop (m),424.55 [227.98–866.68],237.54 [125.82–370.95],-96.08,4.96e-44
+Detour ratio (network / straight-line),1.42 [1.29–1.66],1.60 [1.39–2.00],0.14,1.85e-15
+Commercial POIs within 1 km,73.00 [22.50–88.00],76.00 [27.00–91.00],3.0,9.37e-72
+Straight-line distance to nearest Metro Line 1 station (m),1605 [1006–1928],1612 [1013–1933],0.64,n.a. (stations mapped in both snapshots)

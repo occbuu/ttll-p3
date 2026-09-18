@@ -1,0 +1,14 @@
+Predictor,beta,SE,OR,95% CI,p
+const,2.807,1.987,16.56,"[0.34, 814.39]",0.158
+Household income (5 ordered bands),0.567,0.201,1.762,"[1.19, 2.62]",0.005
+Education (7 ordered levels),-0.038,0.125,0.963,"[0.75, 1.23]",0.762
+Age (years),-0.025,0.012,0.975,"[0.95, 1.00]",0.041
+Female (ref: male),-0.195,0.336,0.823,"[0.43, 1.59]",0.563
+Own-account business owner (ref: other),0.484,0.377,1.622,"[0.78, 3.39]",0.199
+Commute time (4 ordered bands),0.021,0.191,1.021,"[0.70, 1.48]",0.914
+"Distance to nearest PT stop, 2023 (per 100 m)",-0.173,0.282,0.841,"[0.48, 1.46]",0.538
+"Network walking distance to stop, 2023 (per 100 m)",0.092,0.194,1.097,"[0.75, 1.60]",0.634
+"Detour ratio, 2023 (per 0.1)",0.027,0.047,1.028,"[0.94, 1.13]",0.562
+Distance to nearest Metro Line 1 station (per 100 m),0.023,0.027,1.024,"[0.97, 1.08]",0.389
+Commercial POIs within 1 km (per 10),-0.017,0.047,0.983,"[0.90, 1.08]",0.720
+Road density within 500 m (per 1000 m/km2),-0.075,0.062,0.928,"[0.82, 1.05]",0.224

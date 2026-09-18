@@ -1,0 +1,26 @@
+{
+  "title": "Habit, Not Infrastructure: replication package for Truong Tho Living Lab Paper 3 (Metro Line 1 behavioural baseline, Ho Chi Minh City)",
+  "version": "1.0.0",
+  "upload_type": "software",
+  "publication_date": "2026-09-18",
+  "creators": [
+    {
+      "name": "Lê, Ngọc Hiếu",
+      "affiliation": "Posts and Telecommunications Institute of Technology; University of Health Sciences, VNU-HCM",
+      "orcid": "0000-0002-1133-1433"
+    }
+  ],
+  "keywords": [
+    "travel habit",
+    "socio-technical lock-in",
+    "motorcycle dependence",
+    "metro",
+    "micro-enterprise",
+    "OpenStreetMap",
+    "Ho Chi Minh City"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "description": "<p>Replication package for Paper 3 of the Truong Tho Living Lab: a behavioural baseline of motorcycle lock-in on the eve of Metro Line 1 commercial service in Ho Chi Minh City.</p><p>The package contains the analysis notebook, 12 figures, 19 tables, <code>results.json</code> (every manuscript statistic), public (coordinate-stripped) analysis files, GHSL study-window clips, and the PCI files used in the institutional benchmark.</p><p>Survey microdata with household coordinates are withheld and available from the corresponding author under a data-use agreement.</p>"
+}
