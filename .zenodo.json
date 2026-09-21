@@ -1,6 +1,5 @@
 {
-  "title": "Beyond distance to a bus stop: revised replication package for Truong Tho Living Lab Paper 3",
-  "version": "2.0.0-dev",
+  "title": "ttll-p3: analysis code for Truong Tho Living Lab Paper 3",
   "upload_type": "software",
   "creators": [
     {
@@ -18,5 +17,5 @@
   "license": "cc-by-4.0",
   "access_right": "open",
   "language": "eng",
-  "description": "<p>Revised Paper3 analysis code and aggregate outputs linking the source-verified 2023 resident survey to historical OpenStreetMap access measures. See revision_20260920. Root-level notebook and results are historical and superseded. Full spatial replication requires authorized access to restricted survey coordinates and external PBF snapshots. Development metadata; no new release or DOI is asserted.</p>"
+  "description": "<p>Analysis code and aggregate outputs for Truong Tho Living Lab Paper 3. The repository is software, not the manuscript. Full spatial replication requires authorized survey coordinates and external Geofabrik PBF snapshots.</p>"
 }

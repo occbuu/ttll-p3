@@ -7,9 +7,3 @@ networkx
 pyproj
 osmium
 openpyxl
-python-docx
-pypdf
-nbformat
-nbclient
-ipykernel
-jupyterlab

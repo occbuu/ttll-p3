@@ -1,8 +1,6 @@
 cff-version: 1.2.0
-title: >-
-  Beyond distance to a bus stop: Stated barriers and historically
-  mapped transit access in Ho Chi Minh City
-message: If you use this repository, please cite it as below.
+title: "ttll-p3: analysis code for Truong Tho Living Lab Paper 3"
+message: If you use this code or its outputs, please cite it as below.
 type: software
 authors:
   - family-names: Lê
@@ -14,17 +12,15 @@ authors:
       Viet Nam; University of Health Sciences, Viet Nam National
       University Ho Chi Minh City, Viet Nam
     email: lnhieu@ptit.edu.vn
-identifiers: []
 repository-code: "https://github.com/occbuu/ttll-p3"
-url: ""
 abstract: >-
-  Revised replication code and aggregate outputs linking 2023 resident
-  survey barriers to historical OpenStreetMap bus-stop proximity and
-  walking-network access, with spatial uncertainty and sensitivity analyses.
+  Analysis code and aggregate outputs linking 2023 resident-survey
+  barriers to historically mapped bus-stop access in Ho Chi Minh City.
+  This repository does not contain the manuscript.
 keywords:
   - public transport accessibility
   - stated barriers
   - OpenStreetMap
   - Ho Chi Minh City
 license: CC-BY-4.0
-version: "2.0.0-dev"
+version: "1.0.0"

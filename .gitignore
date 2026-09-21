@@ -9,14 +9,21 @@ venv/
 .env
 .env.*
 *.gpkg-journal
+_nb_preview.txt
 
-# Restricted inputs, source extracts and local build caches
+# Restricted inputs and local caches
 revision_20260920/restricted_cache/
 revision_20260920/vendor/
 revision_20260920/qa/
 *.osm.pbf
 *.xlsx
 *.xls
+
+# Manuscript (kept outside this code repo)
+paper/
+*.docx
+*.tex
+header.tex
 
 # LaTeX intermediates
 *.aux
