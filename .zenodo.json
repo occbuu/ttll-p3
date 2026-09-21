@@ -1,8 +1,7 @@
 {
-  "title": "Habit, Not Infrastructure: replication package for Truong Tho Living Lab Paper 3 (Metro Line 1 behavioural baseline, Ho Chi Minh City)",
-  "version": "1.0.0",
+  "title": "Beyond distance to a bus stop: revised replication package for Truong Tho Living Lab Paper 3",
+  "version": "2.0.0-dev",
   "upload_type": "software",
-  "publication_date": "2026-09-18",
   "creators": [
     {
       "name": "Lê, Ngọc Hiếu",
@@ -11,16 +10,13 @@
     }
   ],
   "keywords": [
-    "travel habit",
-    "socio-technical lock-in",
-    "motorcycle dependence",
-    "metro",
-    "micro-enterprise",
+    "public transport accessibility",
+    "stated barriers",
     "OpenStreetMap",
     "Ho Chi Minh City"
   ],
   "license": "cc-by-4.0",
   "access_right": "open",
   "language": "eng",
-  "description": "<p>Replication package for Paper 3 of the Truong Tho Living Lab: a behavioural baseline of motorcycle lock-in on the eve of Metro Line 1 commercial service in Ho Chi Minh City.</p><p>The package contains the analysis notebook, 12 figures, 19 tables, <code>results.json</code> (every manuscript statistic), public (coordinate-stripped) analysis files, GHSL study-window clips, and the PCI files used in the institutional benchmark.</p><p>Survey microdata with household coordinates are withheld and available from the corresponding author under a data-use agreement.</p>"
+  "description": "<p>Revised Paper3 analysis code and aggregate outputs linking the source-verified 2023 resident survey to historical OpenStreetMap access measures. See revision_20260920. Root-level notebook and results are historical and superseded. Full spatial replication requires authorized access to restricted survey coordinates and external PBF snapshots. Development metadata; no new release or DOI is asserted.</p>"
 }

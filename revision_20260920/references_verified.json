@@ -1,0 +1,2639 @@
+[
+  {
+    "author": [
+      {
+        "given": "Karst T.",
+        "family": "Geurs",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bert",
+        "family": "van Wee",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "12",
+    "issue": "2",
+    "page": "127-140",
+    "DOI": "10.1016/j.jtrangeo.2003.10.005",
+    "URL": "https://doi.org/10.1016/j.jtrangeo.2003.10.005",
+    "type": "journal-article",
+    "id": "Geurs2004",
+    "title": "Accessibility evaluation of land-use and transport strategies: review and research directions",
+    "container-title": "Journal of Transport Geography",
+    "issued": {
+      "date-parts": [
+        [
+          2004,
+          6
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "S L",
+        "family": "Handy",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Community and Regional Planning Program, School of Architecture, The University of Texas at Austin, Austin, TX 78712-1160, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "D A",
+        "family": "Niemeier",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Civil and Environmental Engineering, and Institute of Transportation Studies, The University of California at Davis, Davis, CA 95615-5294, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "29",
+    "issue": "7",
+    "page": "1175-1194",
+    "DOI": "10.1068/a291175",
+    "URL": "https://doi.org/10.1068/a291175",
+    "type": "journal-article",
+    "abstract": "<jats:p>Accessibility is an important characteristic of metropolitan areas and is often reflected in transportation and land-use planning goals. But the concept of accessibility has rarely been translated into performance measures by which policies are evaluated, despite a substantial literature on the concept. This paper is an attempt to bridge the gap between the academic literature and the practical application of such measures and provide a framework for the development of accessibility measures. Issues that planners must address in developing an accessibility measure are outlined, and two case studies suggestive of the range of possible approaches are presented.</jats:p>",
+    "id": "Handy1997",
+    "title": "Measuring Accessibility: An Exploration of Issues and Alternatives",
+    "container-title": "Environment and Planning A: Economy and Space",
+    "issued": {
+      "date-parts": [
+        [
+          1997,
+          7
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Felix Johan",
+        "family": "Pot",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bert",
+        "family": "van Wee",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Taede",
+        "family": "Tillema",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "94",
+    "page": "103090",
+    "article-number": "103090",
+    "DOI": "10.1016/j.jtrangeo.2021.103090",
+    "URL": "https://doi.org/10.1016/j.jtrangeo.2021.103090",
+    "type": "journal-article",
+    "id": "Pot2021",
+    "title": "Perceived accessibility: What it is and why it differs from calculated accessibility measures based on spatial data",
+    "container-title": "Journal of Transport Geography",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          6
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-5398-6633",
+        "authenticated-orcid": false,
+        "given": "Katrin",
+        "family": "Lättman",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lars E.",
+        "family": "Olsson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Margareta",
+        "family": "Friman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "54",
+    "page": "257-263",
+    "DOI": "10.1016/j.jtrangeo.2016.06.015",
+    "URL": "https://doi.org/10.1016/j.jtrangeo.2016.06.015",
+    "type": "journal-article",
+    "id": "Lattman2016",
+    "title": "Development and test of the Perceived Accessibility Scale (PAC) in public transport",
+    "container-title": "Journal of Transport Geography",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          6
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Katrin",
+        "family": "Lättman",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6570-6181",
+        "authenticated-orcid": false,
+        "given": "Lars E.",
+        "family": "Olsson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Margareta",
+        "family": "Friman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "69",
+    "page": "501-511",
+    "DOI": "10.1016/j.retrec.2018.06.002",
+    "URL": "https://doi.org/10.1016/j.retrec.2018.06.002",
+    "type": "journal-article",
+    "id": "Lattman2018",
+    "title": "A new approach to accessibility – Examining perceived accessibility in contrast to objectively measured accessibility in daily travel",
+    "container-title": "Research in Transportation Economics",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          9
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Rafael H. M.",
+        "family": "Pereira",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Transport Studies Unit, School of Geography and the Environment, University of Oxford, Oxford, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tim",
+        "family": "Schwanen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Transport Studies Unit, School of Geography and the Environment, University of Oxford, Oxford, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David",
+        "family": "Banister",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Transport Studies Unit, School of Geography and the Environment, University of Oxford, Oxford, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "37",
+    "issue": "2",
+    "page": "170-191",
+    "DOI": "10.1080/01441647.2016.1257660",
+    "URL": "https://doi.org/10.1080/01441647.2016.1257660",
+    "type": "journal-article",
+    "id": "Geurs2016",
+    "title": "Distributive justice and equity in transportation",
+    "container-title": "Transport Reviews",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          3,
+          4
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Angela",
+        "family": "Curl",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "John D.",
+        "family": "Nelson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jillian",
+        "family": "Anable",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "2",
+    "page": "3-11",
+    "DOI": "10.1016/j.rtbm.2011.07.001",
+    "URL": "https://doi.org/10.1016/j.rtbm.2011.07.001",
+    "type": "journal-article",
+    "id": "Curl2015",
+    "title": "Does Accessibility Planning address what matters? A review of current practice and practitioner perspectives",
+    "container-title": "Research in Transportation Business & Management",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          11
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Bert",
+        "family": "van Wee",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "51",
+    "page": "9-16",
+    "DOI": "10.1016/j.jtrangeo.2015.10.018",
+    "URL": "https://doi.org/10.1016/j.jtrangeo.2015.10.018",
+    "type": "journal-article",
+    "id": "VanWee2016",
+    "title": "Accessible accessibility research challenges",
+    "container-title": "Journal of Transport Geography",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          2
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Icek",
+        "family": "Ajzen",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "50",
+    "issue": "2",
+    "page": "179-211",
+    "DOI": "10.1016/0749-5978(91)90020-t",
+    "URL": "https://doi.org/10.1016/0749-5978(91)90020-t",
+    "type": "journal-article",
+    "id": "Ajzen1991",
+    "title": "The theory of planned behavior",
+    "container-title": "Organizational Behavior and Human Decision Processes",
+    "issued": {
+      "date-parts": [
+        [
+          1991,
+          12
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Bas",
+        "family": "Verplanken",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sheina",
+        "family": "Orbell",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "33",
+    "issue": "6",
+    "page": "1313-1330",
+    "DOI": "10.1111/j.1559-1816.2003.tb01951.x",
+    "URL": "https://doi.org/10.1111/j.1559-1816.2003.tb01951.x",
+    "type": "journal-article",
+    "abstract": "<jats:p>We argue that habit is a psychological construct, rather than simply past behavioral frequency. In 4 studies, a 12‐item index of habit strength (the Self‐Report Habit Index, SRHI) was developed on the basis of features of habit; that is, a history of repetition, automaticity (lack of control and awareness, efficiency), and expressing identity. High internal and test‐retest reliabilities were found. The SRHI correlated strongly with past behavioral frequency and the response frequency measure of habit (Verplanken, Aarts, van Knippenberg, &amp; van Knippenberg, 1994). The index discriminated between behaviors varying in frequency, and also between daily vs. weekly habits. The SRHI may be useful as a dependent variable, or to determine or monitor habit strength without measuring behavioral frequency.</jats:p>",
+    "id": "Verplanken2003",
+    "title": "Reflections on Past Behavior: A Self‐Report Index of Habit Strength",
+    "container-title": "Journal of Applied Social Psychology",
+    "issued": {
+      "date-parts": [
+        [
+          2003,
+          6
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Benjamin",
+        "family": "Gardner",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Charles",
+        "family": "Abraham",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Phillippa",
+        "family": "Lally",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gert-Jan",
+        "family": "de Bruijn",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "9",
+    "issue": "1",
+    "page": "102",
+    "DOI": "10.1186/1479-5868-9-102",
+    "URL": "https://doi.org/10.1186/1479-5868-9-102",
+    "type": "journal-article",
+    "id": "Gardner2012",
+    "title": "Towards parsimony in habit measurement: Testing the convergent and predictive validity of an automaticity subscale of the Self-Report Habit Index",
+    "container-title": "International Journal of Behavioral Nutrition and Physical Activity",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Henk",
+        "family": "Aarts",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bas",
+        "family": "Verplanken",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ad",
+        "family": "van Knippenberg",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "28",
+    "issue": "15",
+    "page": "1355-1374",
+    "DOI": "10.1111/j.1559-1816.1998.tb01681.x",
+    "URL": "https://doi.org/10.1111/j.1559-1816.1998.tb01681.x",
+    "type": "journal-article",
+    "abstract": "<jats:p>This paper summarizes research on determinants of repeated behaviors, and the decision processes underlying them. The present research focuses on travel mode choices as an example of such behaviors. It is proposed that when behavior is performed repeatedly and becomes habitual, it is guided by automated cognitive processes, rather than being preceded by elaborate decision processes (i.e., a decision based on attitudes and intentions). First, current attitude‐behavior models are discussed, and the role of habit in these models is examined. Second, research is presented on the decision processes preceding travel mode choices. Based on the present theoretical and empirical overview, it is concluded that frequently performed behavior is often a matter of habit, thereby establishing a boundary condition for the applicability of attitude‐behavior models. However, more systematic research is required to disentangle the role of habit in attitude‐behavior models and to learn more about the cognitive processes underlying habitual behavior.</jats:p>",
+    "id": "Aarts1998",
+    "title": "Predicting Behavior From Actions in the Past: Repeated Decision Making or a Matter of Habit?",
+    "container-title": "Journal of Applied Social Psychology",
+    "issued": {
+      "date-parts": [
+        [
+          1998,
+          8
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Sebastian",
+        "family": "Bamberg",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Icek",
+        "family": "Ajzen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Peter",
+        "family": "Schmidt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "25",
+    "issue": "3",
+    "page": "175-187",
+    "DOI": "10.1207/s15324834basp2503_01",
+    "URL": "https://doi.org/10.1207/s15324834basp2503_01",
+    "type": "journal-article",
+    "id": "Bamberg2003",
+    "title": "Choice of Travel Mode in the Theory of Planned Behavior: The Roles of Past Behavior, Habit, and Reasoned Action",
+    "container-title": "Basic and Applied Social Psychology",
+    "issued": {
+      "date-parts": [
+        [
+          2003,
+          9
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Sebastian",
+        "family": "Bamberg",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Satoshi",
+        "family": "Fujii",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Margareta",
+        "family": "Friman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tommy",
+        "family": "Gärling",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "18",
+    "issue": "1",
+    "page": "228-235",
+    "DOI": "10.1016/j.tranpol.2010.08.006",
+    "URL": "https://doi.org/10.1016/j.tranpol.2010.08.006",
+    "type": "journal-article",
+    "id": "Bamberg2011",
+    "title": "Behaviour theory and soft transport policy measures",
+    "container-title": "Transport Policy",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          1
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Satoshi",
+        "family": "Fujii",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ryuichi",
+        "family": "Kitamura",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "30",
+    "issue": "1",
+    "page": "81-95",
+    "DOI": "10.1023/a:1021234607980",
+    "URL": "https://doi.org/10.1023/a:1021234607980",
+    "type": "journal-article",
+    "id": "Fujii2003",
+    "title": "What does a one-month free bus ticket do to habitual drivers? An experimental analysis of habit and attitude change",
+    "container-title": "Transportation",
+    "issued": {
+      "date-parts": [
+        [
+          2003,
+          2
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Benjamin",
+        "family": "Gardner",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "12",
+    "issue": "1",
+    "page": "68-76",
+    "DOI": "10.1016/j.trf.2008.08.001",
+    "URL": "https://doi.org/10.1016/j.trf.2008.08.001",
+    "type": "journal-article",
+    "id": "Gardner2009",
+    "title": "Modelling motivation and habit in stable travel mode contexts",
+    "container-title": "Transportation Research Part F: Traffic Psychology and Behaviour",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          1
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Tim",
+        "family": "Schwanen",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David",
+        "family": "Banister",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jillian",
+        "family": "Anable",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "24",
+    "page": "522-532",
+    "DOI": "10.1016/j.jtrangeo.2012.06.003",
+    "URL": "https://doi.org/10.1016/j.jtrangeo.2012.06.003",
+    "type": "journal-article",
+    "id": "Schwanen2012",
+    "title": "Rethinking habits and their role in behaviour change: the case of low-carbon mobility",
+    "container-title": "Journal of Transport Geography",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Maarten",
+        "family": "Kroesen",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Susan",
+        "family": "Handy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Caspar",
+        "family": "Chorus",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "101",
+    "page": "190-202",
+    "DOI": "10.1016/j.tra.2017.05.013",
+    "URL": "https://doi.org/10.1016/j.tra.2017.05.013",
+    "type": "journal-article",
+    "id": "Kroesen2017",
+    "title": "Do attitudes cause behavior or vice versa? An alternative conceptualization of the attitude-behavior relationship in travel behavior modeling",
+    "container-title": "Transportation Research Part A: Policy and Practice",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          7
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Linda",
+        "family": "Steg",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "39",
+    "issue": "2-3",
+    "page": "147-162",
+    "DOI": "10.1016/j.tra.2004.07.001",
+    "URL": "https://doi.org/10.1016/j.tra.2004.07.001",
+    "type": "journal-article",
+    "id": "Steg2005",
+    "title": "Car use: lust and must. Instrumental, symbolic and affective motives for car use",
+    "container-title": "Transportation Research Part A: Policy and Practice",
+    "issued": {
+      "date-parts": [
+        [
+          2005,
+          2
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "David",
+        "family": "Banister",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "15",
+    "issue": "2",
+    "page": "73-80",
+    "DOI": "10.1016/j.tranpol.2007.10.005",
+    "URL": "https://doi.org/10.1016/j.tranpol.2007.10.005",
+    "type": "journal-article",
+    "id": "Banister2008",
+    "title": "The sustainable mobility paradigm",
+    "container-title": "Transport Policy",
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          3
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Robert",
+        "family": "Cervero",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kara",
+        "family": "Kockelman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "2",
+    "issue": "3",
+    "page": "199-219",
+    "DOI": "10.1016/s1361-9209(97)00009-6",
+    "URL": "https://doi.org/10.1016/s1361-9209(97)00009-6",
+    "type": "journal-article",
+    "id": "Cervero1997",
+    "title": "Travel demand and the 3Ds: Density, diversity, and design",
+    "container-title": "Transportation Research Part D: Transport and Environment",
+    "issued": {
+      "date-parts": [
+        [
+          1997,
+          9
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Reid",
+        "family": "Ewing",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Robert",
+        "family": "Cervero",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "76",
+    "issue": "3",
+    "page": "265-294",
+    "DOI": "10.1080/01944361003766766",
+    "URL": "https://doi.org/10.1080/01944361003766766",
+    "type": "journal-article",
+    "id": "Ewing2010",
+    "title": "Travel and the Built Environment: A Meta-Analysis",
+    "container-title": "Journal of the American Planning Association",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          6,
+          21
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Susan",
+        "family": "Handy",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xinyu",
+        "family": "Cao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Patricia",
+        "family": "Mokhtarian",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "10",
+    "issue": "6",
+    "page": "427-444",
+    "DOI": "10.1016/j.trd.2005.05.002",
+    "URL": "https://doi.org/10.1016/j.trd.2005.05.002",
+    "type": "journal-article",
+    "id": "Handy2005",
+    "title": "Correlation or causality between the built environment and travel behavior? Evidence from Northern California",
+    "container-title": "Transportation Research Part D: Transport and Environment",
+    "issued": {
+      "date-parts": [
+        [
+          2005,
+          11
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Xinyu (Jason)",
+        "family": "Cao",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Patricia L.",
+        "family": "Mokhtarian",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Susan L.",
+        "family": "Handy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "29",
+    "issue": "3",
+    "page": "359-395",
+    "DOI": "10.1080/01441640802539195",
+    "URL": "https://doi.org/10.1080/01441640802539195",
+    "type": "journal-article",
+    "id": "Cao2009",
+    "title": "Examining the Impacts of Residential Self‐Selection on Travel Behaviour: A Focus on Empirical Findings",
+    "container-title": "Transport Reviews",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          5
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Brian E.",
+        "family": "Saelens",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "James F.",
+        "family": "Sallis",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lawrence D.",
+        "family": "Frank",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "25",
+    "issue": "2",
+    "page": "80-91",
+    "DOI": "10.1207/s15324796abm2502_03",
+    "URL": "https://doi.org/10.1207/s15324796abm2502_03",
+    "type": "journal-article",
+    "id": "Saelens2003",
+    "title": "Environmental correlates of walking and cycling: Findings from the transportation, urban design, and planning literatures",
+    "container-title": "Annals of Behavioral Medicine",
+    "issued": {
+      "date-parts": [
+        [
+          2003,
+          4
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Reid",
+        "family": "Ewing",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Susan",
+        "family": "Handy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "14",
+    "issue": "1",
+    "page": "65-84",
+    "DOI": "10.1080/13574800802451155",
+    "URL": "https://doi.org/10.1080/13574800802451155",
+    "type": "journal-article",
+    "id": "Ewing2009",
+    "title": "Measuring the Unmeasurable: Urban Design Qualities Related to Walkability",
+    "container-title": "Journal of Urban Design",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          2
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Mariela A.",
+        "family": "Alfonzo",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "37",
+    "issue": "6",
+    "page": "808-836",
+    "DOI": "10.1177/0013916504274016",
+    "URL": "https://doi.org/10.1177/0013916504274016",
+    "type": "journal-article",
+    "abstract": "<jats:p>The multitude of quality of life problems associated with declining walking rates has impelled researchers from various disciplines to identify factors related to this behavior change. Currently, this body of research is in need of a transdisciplinary, multilevel theoretical model that can help explain howindividual, group, regional, and physical-environmental factors all affect physical activity behaviors. To address this gap, this article offers a social-ecological model of walking that presents a dynamic, causal model of the decision-making process. Within the model, a hierarchy of walking needs operates and organizes five levels of needs hierarchically and presents them as antecedents within the walking decision-making process. This model can (a) serve as a framework by which to understand the relative significance of the cornucopia of variables identified by existing research, (b) offer hypotheses for how these factors affect peoples' decision to walk, and (c) help to guide future research and practice.</jats:p>",
+    "id": "Alfonzo2005",
+    "title": "To Walk or Not to Walk? The Hierarchy of Walking Needs",
+    "container-title": "Environment and Behavior",
+    "issued": {
+      "date-parts": [
+        [
+          2005,
+          11
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1403-0628",
+        "authenticated-orcid": false,
+        "given": "David S.",
+        "family": "Vale",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Miguel",
+        "family": "Saraiva",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mauro",
+        "family": "Pereira",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "DOI": "10.5198/jtlu.2015.593",
+    "URL": "https://doi.org/10.5198/jtlu.2015.593",
+    "type": "journal-article",
+    "id": "Vale2015",
+    "title": "Active accessibility: A review of operational measures of walking and cycling accessibility",
+    "container-title": "Journal of Transport and Land Use",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          6,
+          5
+        ]
+      ]
+    },
+    "verification": "Crossref plus publisher https://www.jtlu.org/index.php/jtlu/article/view/593; publisher recommended citation uses 2015 and volume 9(1)",
+    "volume": "9",
+    "issue": "1"
+  },
+  {
+    "author": [
+      {
+        "given": "Ahmed",
+        "family": "El-Geneidy",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Grimsrud",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rania",
+        "family": "Wasfi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Paul",
+        "family": "Tétreault",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Julien",
+        "family": "Surprenant-Legault",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "41",
+    "issue": "1",
+    "page": "193-210",
+    "DOI": "10.1007/s11116-013-9508-z",
+    "URL": "https://doi.org/10.1007/s11116-013-9508-z",
+    "type": "journal-article",
+    "id": "ElGeneidy2014",
+    "title": "New evidence on walking distances to transit stops: identifying redundancies and gaps using variable service areas",
+    "container-title": "Transportation",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          1
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Michael",
+        "family": "Iacono",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kevin J.",
+        "family": "Krizek",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ahmed",
+        "family": "El-Geneidy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "18",
+    "issue": "1",
+    "page": "133-140",
+    "DOI": "10.1016/j.jtrangeo.2009.02.002",
+    "URL": "https://doi.org/10.1016/j.jtrangeo.2009.02.002",
+    "type": "journal-article",
+    "id": "Iacono2010",
+    "title": "Measuring non-motorized accessibility: issues, alternatives, and execution",
+    "container-title": "Journal of Transport Geography",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          1
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "ALLISON",
+        "family": "Truitt",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "35",
+    "issue": "1",
+    "page": "3-19",
+    "DOI": "10.1111/j.1548-1425.2008.00002.x",
+    "URL": "https://doi.org/10.1111/j.1548-1425.2008.00002.x",
+    "type": "journal-article",
+    "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>“Mobility” is a key concept in understanding processes of globalization and class formation. In this article, I examine motorbike mobility in Ho Chi Minh City and its role in reordering social stratification in urban Vietnam. In the years following trade liberalization, motorbikes emerged as exemplary symbols of purchasing power, displaying both monetized and motorized power. In response to the exponential increase in the number of motorbikes, Vietnamese state agencies inscribed streets with divisions to separate different classes of vehicles and regulate the flow of traffic. Motorbikes, I argue, elude attempts to regulate their movement precisely because they embody the very mobility promised by economic reforms. [<jats:italic>Vietnam, traffic, commodity, circulation, public space, mobility</jats:italic>]</jats:p>",
+    "id": "Truitt2008",
+    "title": "On the back of a motorbike: Middle‐class mobility in Ho Chi Minh City, Vietnam",
+    "container-title": "American Ethnologist",
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          2
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Arve",
+        "family": "Hansen",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Centre for Development and the Environment, University of Oslo, Oslo, Norway"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "12",
+    "issue": "5",
+    "page": "628-645",
+    "DOI": "10.1080/17450101.2016.1156425",
+    "URL": "https://doi.org/10.1080/17450101.2016.1156425",
+    "type": "journal-article",
+    "id": "Hansen2017",
+    "title": "Hanoi on wheels: emerging automobility in the land of the motorbike",
+    "container-title": "Mobilities",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          3
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Satoshi",
+        "family": "Fujii",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hong",
+        "family": "Van",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "12",
+    "issue": "1",
+    "page": "97-110",
+    "DOI": "10.5038/2375-0901.12.1.6",
+    "URL": "https://doi.org/10.5038/2375-0901.12.1.6",
+    "type": "journal-article",
+    "id": "Bus2009",
+    "title": "Psychological Determinants of the Intention to Use the Bus in Ho Chi Minh City",
+    "container-title": "Journal of Public Transportation",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          3
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9157-9358",
+        "authenticated-orcid": false,
+        "given": "Duy Chinh",
+        "family": "Nguyen",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Nguyen Tat Thanh University, Ho Chi Minh City, Vietnam"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Huu Dung",
+        "family": "Hoang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Nguyen Tat Thanh University, Ho Chi Minh City, Vietnam"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Huu Tien",
+        "family": "Hoang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Nguyen Tat Thanh University, Ho Chi Minh City, Vietnam"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Quang Trung",
+        "family": "Bui",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Nguyen Tat Thanh University, Ho Chi Minh City, Vietnam"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Lan Phuong",
+        "family": "Nguyen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Nguyen Tat Thanh University, Ho Chi Minh City, Vietnam"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "volume": "9",
+    "issue": "2",
+    "article-number": "2158244019841928",
+    "DOI": "10.1177/2158244019841928",
+    "URL": "https://doi.org/10.1177/2158244019841928",
+    "type": "journal-article",
+    "abstract": "<jats:p>An overwhelming majority of inhabitants in Ho Chi Minh City use motorbike as their primary means of transport, causing severe urban traffic congestion. As an effort to combat congestion, the local and central government started constructing the first urban railway line (metro) in 2009. In this study, travel demand for different modes of transport was investigated using discrete choice experiment. In addition to conventional choices such as motorbike and bus, we included new technology-assisted taxi service and the first urban railway (Ben Thanh–Suoi Tien) as a hypothetical choice. The data set contains 267 respondents spanning 19 communes across the railway. The results pointed out that mode choice is influenced by both total travel time and total travel cost. The findings also highlighted the importance of transiting time and transiting cost in public transports. In terms of welfare, metro users are willing to pay 976 and 667 VND for a minute reduction of transiting time and transporting time, respectively. When a motorbike user switches to metro mode, monetary welfare of that individual rises by approximately 56,000 VND.</jats:p>",
+    "id": "Modal2019",
+    "title": "Modal Preference in Ho Chi Minh City, Vietnam: An Experiment With New Modes of Transport",
+    "container-title": "Sage Open",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          4
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Son-Tung",
+        "family": "Nguyen",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mehdi",
+        "family": "Moeinaddini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ismaïl",
+        "family": "Saadi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mario",
+        "family": "Cools",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "183",
+    "page": "104062",
+    "article-number": "104062",
+    "DOI": "10.1016/j.tra.2024.104062",
+    "URL": "https://doi.org/10.1016/j.tra.2024.104062",
+    "type": "journal-article",
+    "id": "Bayes2024",
+    "title": "Applying a Bayesian network for modelling the shift from motorcycle to public transport use in Vietnam",
+    "container-title": "Transportation Research Part A: Policy and Practice",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          5
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Minh Hieu",
+        "family": "Nguyen",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2018-6338",
+        "authenticated-orcid": false,
+        "given": "Dorina",
+        "family": "Pojani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "13",
+    "page": "101040",
+    "article-number": "101040",
+    "DOI": "10.1016/j.cstp.2023.101040",
+    "URL": "https://doi.org/10.1016/j.cstp.2023.101040",
+    "type": "journal-article",
+    "id": "Electric2023",
+    "title": "Can electric buses entice more public transport use? Empirical evidence from Vietnam",
+    "container-title": "Case Studies on Transport Policy",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          9
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Annette M.",
+        "family": "Kim",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "78",
+    "issue": "3",
+    "page": "225-238",
+    "DOI": "10.1080/01944363.2012.715504",
+    "URL": "https://doi.org/10.1080/01944363.2012.715504",
+    "type": "journal-article",
+    "id": "Kim2012",
+    "title": "The Mixed-Use Sidewalk: Vending and Property Rights in Public Space",
+    "container-title": "Journal of the American Planning Association",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          7
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Mordechai",
+        "family": "Haklay",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Civil, Environmental, and Geomatic Engineering, University College London, Gower Street, London WC1E 6BT"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "37",
+    "issue": "4",
+    "page": "682-703",
+    "DOI": "10.1068/b35097",
+    "URL": "https://doi.org/10.1068/b35097",
+    "type": "journal-article",
+    "abstract": "<jats:p>Within the framework of Web 2.0 mapping applications, the most striking example of a geographical application is the OpenStreetMap (OSM) project. OSM aims to create a free digital map of the world and is implemented through the engagement of participants in a mode similar to software development in Open Source projects. The information is collected by many participants, collated on a central database, and distributed in multiple digital formats through the World Wide Web. This type of information was termed ‘Volunteered Geographical Information’ (VGI) by Goodchild, 2007. However, to date there has been no systematic analysis of the quality of VGI. This study aims to fill this gap by analysing OSM information. The examination focuses on analysis of its quality through a comparison with Ordnance Survey (OS) datasets. The analysis focuses on London and England, since OSM started in London in August 2004 and therefore the study of these geographies provides the best understanding of the achievements and difficulties of VGI. The analysis shows that OSM information can be fairly accurate: on average within about 6 m of the position recorded by the OS, and with approximately 80% overlap of motorway objects between the two datasets. In the space of four years, OSM has captured about 29% of the area of England, of which approximately 24% are digitised lines without a complete set of attributes. The paper concludes with a discussion of the implications of the findings to the study of VGI as well as suggesting future research directions.</jats:p>",
+    "id": "Haklay2010",
+    "title": "How Good is Volunteered Geographical Information? A Comparative Study of OpenStreetMap and Ordnance Survey Datasets",
+    "container-title": "Environment and Planning B: Planning and Design",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          8
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-3929-5390",
+        "authenticated-orcid": true,
+        "given": "Christopher",
+        "family": "Barrington-Leigh",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Adam",
+        "family": "Millard-Ball",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "12",
+    "issue": "8",
+    "page": "e0180698",
+    "DOI": "10.1371/journal.pone.0180698",
+    "URL": "https://doi.org/10.1371/journal.pone.0180698",
+    "type": "journal-article",
+    "id": "Barrington2017",
+    "title": "The world’s user-generated road map is more than 80% complete",
+    "container-title": "PLOS ONE",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          10
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Geoff",
+        "family": "Boeing",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "65",
+    "page": "126-139",
+    "DOI": "10.1016/j.compenvurbsys.2017.05.004",
+    "URL": "https://doi.org/10.1016/j.compenvurbsys.2017.05.004",
+    "type": "journal-article",
+    "id": "Boeing2017",
+    "title": "OSMnx: New methods for acquiring, constructing, analyzing, and visualizing complex street networks",
+    "container-title": "Computers, Environment and Urban Systems",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          9
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Michael F.",
+        "family": "Goodchild",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "69",
+    "issue": "4",
+    "page": "211-221",
+    "DOI": "10.1007/s10708-007-9111-y",
+    "URL": "https://doi.org/10.1007/s10708-007-9111-y",
+    "type": "journal-article",
+    "id": "Goodchild2007",
+    "title": "Citizens as sensors: the world of volunteered geography",
+    "container-title": "GeoJournal",
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          11,
+          30
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Pascal",
+        "family": "Neis",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Geoinformatics Research Group, Department of Geography, University of Heidelberg, Berliner Street 48, D-69120 Heidelberg, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4916-9838",
+        "authenticated-orcid": false,
+        "given": "Alexander",
+        "family": "Zipf",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Geoinformatics Research Group, Department of Geography, University of Heidelberg, Berliner Street 48, D-69120 Heidelberg, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "1",
+    "issue": "2",
+    "page": "146-165",
+    "DOI": "10.3390/ijgi1020146",
+    "URL": "https://doi.org/10.3390/ijgi1020146",
+    "type": "journal-article",
+    "abstract": "<jats:p>The OpenStreetMap (OSM) project, founded in 2004, has gathered an exceptional amount of interest in recent years and counts as one of the most impressive sources of Volunteered Geographic Information (VGI) on the Internet. In total, more than half a million members had registered for the project by the end of 2011. However, while this number of contributors seems impressive, questions remain about the individual contributions that have been made by the project members. This research article contains several studies regarding the contributions by the community of the project. The results show that only 38% (192,000) of the registered members carried out at least one edit in the OSM database and that only 5% (24,000) of all members actively contributed to the project in a more productive way. The majority of the members are located in Europe (72%) and each member has an activity area whose size may range from one soccer field up to more than 50 km2. In addition to several more analyses conducted for this article, predictions will be made about how this newly acquired knowledge can be used for future research.</jats:p>",
+    "id": "Neis2012",
+    "title": "Analyzing the Contributor Activity of a Volunteered Geographic Information Project — The Case of OpenStreetMap",
+    "container-title": "ISPRS International Journal of Geo-Information",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          7,
+          27
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "David R.",
+        "family": "Roberts",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Dept of Biometry and Environmental System Analysis Univ. of Freiburg Freiburg Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Volker",
+        "family": "Bahn",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Biological Sciences Wright State Univ. Dayton OH USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Simone",
+        "family": "Ciuti",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Biometry and Environmental System Analysis Univ. of Freiburg Freiburg Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mark S.",
+        "family": "Boyce",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Biological Sciences Univ. of Alberta Edmonton AB Canada"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jane",
+        "family": "Elith",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of BioSciences, Univ. of Melbourne Melbourne Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gurutzeta",
+        "family": "Guillera‐Arroita",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of BioSciences, Univ. of Melbourne Melbourne Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Severin",
+        "family": "Hauenstein",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Biometry and Environmental System Analysis Univ. of Freiburg Freiburg Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "José J.",
+        "family": "Lahoz‐Monfort",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of BioSciences, Univ. of Melbourne Melbourne Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Boris",
+        "family": "Schröder",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Inst. of Geoecology, Div. of Landscape Ecology and Environmental Systems Analysis, Technische Univ. Braunschweig, Braunschweig, Germany, and: Berlin‐Brandenburg Inst. of Advanced Biodiversity Research (BBIB) Berlin Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Wilfried",
+        "family": "Thuiller",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Lab. d’Écologie Alpine, Univ. Joseph Fourier Grenoble France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David I.",
+        "family": "Warton",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Mathematics and Statistics and Evolution and Ecology Research Centre, The Univ. of New South Wales Sydney Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Brendan A.",
+        "family": "Wintle",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of BioSciences, Univ. of Melbourne Melbourne Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Florian",
+        "family": "Hartig",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Biometry and Environmental System Analysis Univ. of Freiburg Freiburg Germany"
+          },
+          {
+            "name": "Theoretical Ecology, Univ. of Regensburg Regensburg Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Carsten F.",
+        "family": "Dormann",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Biometry and Environmental System Analysis Univ. of Freiburg Freiburg Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "40",
+    "issue": "8",
+    "page": "913-929",
+    "DOI": "10.1111/ecog.02881",
+    "URL": "https://doi.org/10.1111/ecog.02881",
+    "type": "journal-article",
+    "abstract": "<jats:p>Ecological data often show temporal, spatial, hierarchical (random effects), or phylogenetic structure. Modern statistical approaches are increasingly accounting for such dependencies. However, when performing cross‐validation, these structures are regularly ignored, resulting in serious underestimation of predictive error. One cause for the poor performance of uncorrected (random) cross‐validation, noted often by modellers, are dependence structures in the data that persist as dependence structures in model residuals, violating the assumption of independence. Even more concerning, because often overlooked, is that structured data also provides ample opportunity for overfitting with non‐causal predictors. This problem can persist even if remedies such as autoregressive models, generalized least squares, or mixed models are used. Block cross‐validation, where data are split strategically rather than randomly, can address these issues. However, the blocking strategy must be carefully considered. Blocking in space, time, random effects or phylogenetic distance, while accounting for dependencies in the data, may also unwittingly induce extrapolations by restricting the ranges or combinations of predictor variables available for model training, thus overestimating interpolation errors. On the other hand, deliberate blocking in predictor space may also improve error estimates when extrapolation is the modelling goal. Here, we review the ecological literature on non‐random and blocked cross‐validation approaches. We also provide a series of simulations and case studies, in which we show that, for all instances tested, block cross‐validation is nearly universally more appropriate than random cross‐validation if the goal is predicting to new data or predictor space, or for selecting causal predictors. We recommend that block cross‐validation be used wherever dependence structures exist in a dataset, even if no correlation structure is visible in the fitted model residuals, or if the fitted models account for such correlations.</jats:p>",
+    "id": "Roberts2017",
+    "title": "Cross‐validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure",
+    "container-title": "Ecography",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          8
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Ronald L.",
+        "family": "Wasserstein",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "American Statistical Association, 732 North Washington Street, Alexandria, VA 22314-1943"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nicole A.",
+        "family": "Lazar",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "American Statistical Association, 732 North Washington Street, Alexandria, VA 22314-1943"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "70",
+    "issue": "2",
+    "page": "129-133",
+    "DOI": "10.1080/00031305.2016.1154108",
+    "URL": "https://doi.org/10.1080/00031305.2016.1154108",
+    "type": "journal-article",
+    "id": "Wasserstein2016",
+    "title": "The ASA Statement on p-Values: Context, Process, and Purpose",
+    "container-title": "The American Statistician",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          4,
+          2
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Daniël",
+        "family": "Lakens",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Human Technology Interaction Group, Eindhoven University of Technology, Eindhoven, the Netherlands"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "8",
+    "issue": "4",
+    "page": "355-362",
+    "DOI": "10.1177/1948550617697177",
+    "URL": "https://doi.org/10.1177/1948550617697177",
+    "type": "journal-article",
+    "abstract": "<jats:p>Scientists should be able to provide support for the absence of a meaningful effect. Currently, researchers often incorrectly conclude an effect is absent based a nonsignificant result. A widely recommended approach within a frequentist framework is to test for equivalence. In equivalence tests, such as the two one-sided tests (TOST) procedure discussed in this article, an upper and lower equivalence bound is specified based on the smallest effect size of interest. The TOST procedure can be used to statistically reject the presence of effects large enough to be considered worthwhile. This practical primer with accompanying spreadsheet and R package enables psychologists to easily perform equivalence tests (and power analyses) by setting equivalence bounds based on standardized effect sizes and provides recommendations to prespecify equivalence bounds. Extending your statistical tool kit with equivalence tests is an easy way to improve your statistical and theoretical inferences.</jats:p>",
+    "id": "Lakens2017",
+    "title": "Equivalence Tests: A Practical Primer for t Tests, Correlations, and Meta-Analyses",
+    "container-title": "Social Psychological and Personality Science",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          5
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "id": "Holm1979",
+    "author": [
+      {
+        "family": "Holm",
+        "given": "Sture"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1979
+        ]
+      ]
+    },
+    "title": "A Simple Sequentially Rejective Multiple Test Procedure",
+    "container-title": "Scandinavian Journal of Statistics",
+    "volume": "6",
+    "issue": "2",
+    "page": "65–70",
+    "URL": "https://www.jstor.org/stable/4615733",
+    "type": "article-journal",
+    "verification": "JSTOR bibliographic record; no DOI assigned here"
+  },
+  {
+    "author": [
+      {
+        "given": "Edwin B.",
+        "family": "Wilson",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "22",
+    "issue": "158",
+    "page": "209-212",
+    "DOI": "10.1080/01621459.1927.10502953",
+    "URL": "https://doi.org/10.1080/01621459.1927.10502953",
+    "type": "journal-article",
+    "id": "Wilson1927",
+    "title": "Probable Inference, the Law of Succession, and Statistical Inference",
+    "container-title": "Journal of the American Statistical Association",
+    "issued": {
+      "date-parts": [
+        [
+          1927,
+          6
+        ]
+      ]
+    },
+    "verification": "Crossref metadata checked against intended title and journal"
+  },
+  {
+    "id": "OSM2026",
+    "author": [
+      {
+        "literal": "OpenStreetMap contributors"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "title": "Copyright and licence",
+    "URL": "https://www.openstreetmap.org/copyright",
+    "type": "webpage",
+    "accessed": "2026-09-20"
+  },
+  {
+    "id": "Geofabrik2026",
+    "author": [
+      {
+        "literal": "Geofabrik"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "title": "OpenStreetMap data extracts for Vietnam: historical files vietnam-230101.osm.pbf and vietnam-260101.osm.pbf",
+    "URL": "https://download.geofabrik.de/asia/vietnam.html",
+    "type": "dataset",
+    "accessed": "2026-09-20"
+  },
+  {
+    "id": "JICA2024",
+    "author": [
+      {
+        "literal": "Japan International Cooperation Agency"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          25
+        ]
+      ]
+    },
+    "title": "Inauguration of Vietnam’s First Underground Urban Metro Line in Ho Chi Minh City",
+    "URL": "https://www.jica.go.jp/english/information/press/2024/20241225_21.html",
+    "type": "webpage",
+    "accessed": "2026-09-20"
+  }
+]

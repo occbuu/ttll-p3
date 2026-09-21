@@ -1,0 +1,19 @@
+{
+  "survey_geolocated_n": 449,
+  "grid_m": 500,
+  "minimum_cell_n": 5,
+  "displayed_respondents": 390,
+  "suppressed_respondents": 59,
+  "displayed_cells": 30,
+  "exact_respondent_points_published": false,
+  "illustration_origin": "synthetic, selected solely from public OSM graph",
+  "illustration_straight_m": 575.058677337145,
+  "illustration_network_m": 882.337037491675,
+  "illustration_origin_connector_m": 40.33898353246619,
+  "illustration_stop_connector_m": 0.0,
+  "illustration_same_stop": true,
+  "context_sha256": {
+    "metro.geojson": "5ae1f43bb933dcb6a81207b1953316fbb3fb9cb8c78e08ed4af2d1b009422ada",
+    "wards.geojson": "7fa7b612ac907855377d51882c88943fe2ec9c4526a02fad2a8358f60902439a"
+  }
+}

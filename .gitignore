@@ -9,3 +9,21 @@ venv/
 .env
 .env.*
 *.gpkg-journal
+
+# Restricted inputs, source extracts and local build caches
+revision_20260920/restricted_cache/
+revision_20260920/vendor/
+revision_20260920/qa/
+*.osm.pbf
+*.xlsx
+*.xls
+
+# LaTeX intermediates
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+build_console.txt

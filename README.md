@@ -1,59 +1,58 @@
-# Habit, Not Infrastructure — replication package
+# Paper3: revised replication package
 
-**Truong Tho Living Lab · Paper 3 · Ho Chi Minh City**
+**Beyond distance to a bus stop: Stated barriers and historically mapped transit access in Ho Chi Minh City.**
 
-Replication files for:
+The current analysis is in [`revision_20260920/`](revision_20260920/). It supersedes the interpretation and results of the original *Habit, Not Infrastructure* notebook. Original root-level notebooks, tables, figures and `derived/` remain historical files, not the inputs or results of this revision. No new journal submission, GitHub release or Zenodo DOI is implied by this update.
 
-> Lê, N. H. *Habit, Not Infrastructure: Motorcycle Lock-In and Micro-Enterprise Vulnerability as a Behavioural Baseline on the Eve of Metro Line 1 Operation in Ho Chi Minh City.* Preprint, 2026.
+## Run the complete notebook
 
-This folder is the **GitHub + Zenodo** deposit: small enough for git, stripped of household identifiers, and ready to mint a DOI.
+Open **[Paper3_Revised_Reproduce.ipynb](Paper3_Revised_Reproduce.ipynb)** from this repository root. It rebuilds the analysis, four figures, Word/Markdown and LaTeX/PDF, with configurable private input paths. `FULL_REBUILD=True` is the default; aggregate-only mode is explicitly labelled. Install the Python requirements plus Pandoc and XeLaTeX before running. The notebook saved in Git has no outputs or private absolute paths.
 
-## What is in here
+The portable LaTeX package is in `paper/revised/`; the local authoring copy is in `Paper3/_TruongTho/` outside this repository. Rebuild with `python revision_20260920/build_latex.py` after rebuilding the manuscript.
 
-| Path | Contents |
-|---|---|
-| `Paper3_Analysis.ipynb` | End-to-end analysis notebook |
-| `paper/Paper3_TruongTho_V1.pdf` | Preprint PDF |
-| `figures/` | 12 figures (300 dpi PNG) |
-| `tables/` | 19 CSV tables (T1–T18 + T15b) |
-| `derived/results.json` | Every statistic quoted in the manuscript |
-| `derived/citizens_analysis_public.csv` | Resident analysis file **without** names, phones, emails, street addresses, or coordinates |
-| `derived/smes_analysis_public.csv` | SME analysis file, same redaction |
-| `derived/metro_stations_*.csv`, `bus_stops_*.csv` | OSM-derived stop inventories (public objects) |
-| `data/clip/` | GHSL population and built-up clips for the study window |
-| `data/pci/` | PCI 2021–2025 files used in Table 16 / Figure 11 |
-| `CITATION.cff`, `.zenodo.json` | Citation + Zenodo metadata |
+## Current package
 
-Headline results (from `derived/results.json`): motorcycle as main mode **83.5%**; habit vs infrastructure **68.0% vs 11.1%** (ratio 6.1:1); income OR **1.76** (p = 0.005); resident–official diagnostic gap **51 percentage points**.
+- `analyse_paper3.py`: source-linked survey cohort, historical OSM extraction, walking networks, spatial-block bootstrap, exploratory adjusted associations and sensitivity checks.
+- `analysis/`: aggregate CSV/JSON results and four figures. No respondent-level records are added by this revision.
+- `build_manuscript.py` and `manuscript_template.md`: rebuild Markdown, Word and the 50-reference bibliography from the aggregate outputs.
+- `Paper3_Revised.docx`: revised Word manuscript; `paper/revised/Paper3_Revised.pdf` is the PDF compiled from the companion LaTeX source.
+- `references_verified.json`, `Reference_Audit_50.csv`, `References_50.ris`: 50 cited references and metadata audit. Metadata verification does not mean full-text review of all sources.
+- `README_VI.md`, `Editorial_Package.md`: revision notes and author information still needed before submission.
 
-## What is *not* in here (on purpose)
+The main cohort contains 450 records linked to the original export. The 460-record cleaned dataset is a sensitivity cohort. OSM 2023 is the historical comparison; OSM 2026 is a mapping sensitivity, not a causal before/after evaluation.
 
-- Household GPS and street addresses (identifying). Available from the corresponding author under a data-use agreement.
-- Geofabrik Vietnam `.pbf` snapshots (~264 MB + 304 MB). Download from [Geofabrik](https://download.geofabrik.de/asia/vietnam.html) dated **2023-01-01** and **2026-01-01**.
-- Global GHSL 100 m rasters (~6 GB each). The four files in `data/clip/` are enough to reproduce the corridor-ring tables.
-- Internal working notes and Word drafts.
+## Reproduce
 
-## How to mint the DOI
-
-See **[HOW_TO_DOI.md](HOW_TO_DOI.md)** (GitHub release → Zenodo, or a direct Zenodo upload).
-
-After Zenodo issues the DOI, put it in `CITATION.cff` under `identifiers` and in the manuscript Data-availability statement.
-
-## How to rerun the notebook
+Python 3.12 was used for the analysis. Install the revision dependencies in an isolated environment:
 
 ```bash
-python -m pip install -r requirements.txt
-jupyter notebook Paper3_Analysis.ipynb
+python -m pip install -r revision_20260920/requirements.txt
+python revision_20260920/verify_package.py
+python revision_20260920/analyse_paper3.py --help
 ```
 
-- Tables, figures, logistic models, and ML comparison can be inspected from the files in `tables/`, `figures/`, and `derived/` without rerunning.
-- A full spatial rebuild needs the two `.pbf` files plus the restricted survey coordinates.
-- With only this deposit, Step 4 of the notebook will use `data/clip/` and will not need the 6 GB global rasters.
+To rebuild the analysis, obtain authorized access to the cleaned and original resident XLSX files, including coordinates. They are not bundled with this revision. Download the historical `vietnam-230101.osm.pbf` and `vietnam-260101.osm.pbf` snapshots from [Geofabrik](https://download.geofabrik.de/asia/vietnam.html). Their SHA-256 checksums are recorded in `analysis/results.json`.
 
-## Licence
+```bash
+python revision_20260920/analyse_paper3.py --clean-survey "/private/QData_Citizens.xlsx" --raw-survey "/private/original_resident_responses.xlsx" --pbf-dir "/public-data/osm" --make-maps
+python revision_20260920/build_manuscript.py
+python revision_20260920/verify_package.py
+```
 
-[CC BY 4.0](LICENSE). OSM layers remain ODbL. Cite this deposit and the preprint if you reuse the figures or `results.json`.
+Use `--output-dir` and `--cache-dir` to redirect generated results and OSM extraction caches. The manuscript builder reads `revision_20260920/analysis/`; copy reviewed results there if an alternate output directory was used. The first PBF extraction can take several minutes. A cached extraction is accepted only when its source PBF hash matches. The analysis writes aggregate outputs only; do not add survey inputs or local caches to Git.
 
-## Correspondence
+`build_manuscript.py` does not export PDF. Run `build_latex.py` to produce the LaTeX PDF, or export Word separately; inspect either layout after changes. The package verifier checks counts and internal consistency, not scientific validity or ethics documentation. The full spatial analysis cannot be independently rerun from aggregates alone.
 
-Lê Ngọc Hiếu · `lnhieu@ptit.edu.vn` · ORCID [0000-0002-1133-1433](https://orcid.org/0000-0002-1133-1433)
+## Publication and licensing
+
+The revised manuscript still requires author confirmation of recruitment, consent/ethics, author declarations and shared-data disclosures. Refer to the revision notes. Do not use the historical DOI instructions or release notes as evidence that the revised manuscript has been released or accepted.
+
+Existing repository material is under [CC BY 4.0](LICENSE); OSM data retain their applicable ODbL terms. Data-sharing permissions for restricted survey records must be established separately. Historical respondent-level files already in the repository are outside this aggregate-only addition and should be reviewed before any new public release.
+
+## Map interpretation and context provenance
+
+The study map displays 30 occupied 500 m cells with at least five source-linked respondents (390 people represented; 59 in smaller cells suppressed). These symbols are cell centres, not household locations. The network illustration is a synthetic origin on actual public 2023 OSM geometry, not a household example or observed route. The ECDF is Figure 3; the reasons chart remains Figure 4.
+
+See `revision_20260920/context/README.md` for context-layer provenance and the unresolved source/licence confirmation for the archived ward boundary. It is not used in distance analysis. Metro Line 1 is an undated context layer; it must not be interpreted as a 2023 operating line.
+
+Journal positioning is documented in `revision_20260920/JOURNAL_POSITIONING.md`: Journal of Transport Geography is an ambitious thematic target, with Case Studies on Transport Policy as a practical alternative. No acceptance probability is asserted.

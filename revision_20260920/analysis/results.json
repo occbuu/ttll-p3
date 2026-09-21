@@ -1,0 +1,94 @@
+{
+  "clean_n": 460,
+  "verified_n": 450,
+  "unmatched_clean_n": 10,
+  "verified_geo_n": 449,
+  "verified_reason_n": 439,
+  "verified_geo_reason_n": 438,
+  "raw_item_checks": {
+    "Q1.10_PTDiChuyen": {
+      "matched": 450,
+      "different": 0
+    },
+    "Q2.8_LyDo_KSD_PTCC": {
+      "matched": 450,
+      "different": 0
+    },
+    "Q1.9_ThuNhapHoGD": {
+      "matched": 450,
+      "different": 0
+    },
+    "Q1.8_TrinhDo": {
+      "matched": 450,
+      "different": 0
+    }
+  },
+  "modes": {
+    "motorcycle_reports": 376,
+    "bus_reports": 8,
+    "q28_users": 11,
+    "both_bus_and_q28_user": 1
+  },
+  "osm": {
+    "2023": {
+      "eligible_records": 836,
+      "unique_locations": 836,
+      "highway_only": 808,
+      "spatial_clusters_50m": 694,
+      "pbf_sha256": "72403c9bd5e04e8bb8afeb3198b8684c9363cd3c024061f369e8569374542015",
+      "graph_nodes": 221703,
+      "graph_edges": 241398,
+      "components": 1455,
+      "access_excluded_ways": 473,
+      "routing_100": {
+        "stops_snapped": 835,
+        "households_snapped": 459,
+        "routable": 458,
+        "household_connector_median": 17.904801142114064,
+        "household_connector_max": 67.84919385181514
+      },
+      "routing_250": {
+        "stops_snapped": 836,
+        "households_snapped": 459,
+        "routable": 458,
+        "household_connector_median": 17.904801142114064,
+        "household_connector_max": 67.84919385181514
+      },
+      "routing_highway": {
+        "stops_snapped": 807,
+        "households_snapped": 459,
+        "routable": 458,
+        "household_connector_median": 17.904801142114064,
+        "household_connector_max": 67.84919385181514
+      }
+    },
+    "2026": {
+      "eligible_records": 2241,
+      "unique_locations": 2241,
+      "highway_only": 2207,
+      "spatial_clusters_50m": 1674,
+      "pbf_sha256": "b0db2247d1cff485418be1a6968ad6f7715333ea496a7f36ef42cccfbcf50887"
+    }
+  },
+  "timestamp_min": "2023-03-19 18:47:41.241000",
+  "timestamp_max": "2023-04-09 11:53:08.388000",
+  "wards": {
+    "Trường Thọ": 249,
+    "Linh Đông": 62,
+    "Bình Thọ": 35,
+    "Linh Trung": 28,
+    "Linh Tây": 28,
+    "Phước Long A": 26,
+    "Linh Chiểu": 19,
+    "Phước Long B": 3
+  },
+  "versions": {
+    "python": "3.12.4",
+    "numpy": "2.4.6",
+    "pandas": "3.0.5"
+  },
+  "source_sha256": {
+    "QData_Citizens.xlsx": "a7b515e27803bc4b48184f69c64796c2c6a4d796d293a540b8aa77080fa52b55",
+    "KHẢO SÁT THÔNG TIN - Dành cho người dân (Responses).xlsx": "a26e15db7d9438c47013e71b82e226ac2fd850a459997a770c558a33cb30046e"
+  }
+}

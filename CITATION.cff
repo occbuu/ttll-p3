@@ -1,8 +1,7 @@
 cff-version: 1.2.0
 title: >-
-  Habit, Not Infrastructure: Motorcycle Lock-In and
-  Micro-Enterprise Vulnerability as a Behavioural Baseline
-  on the Eve of Metro Line 1 Operation in Ho Chi Minh City
+  Beyond distance to a bus stop: Stated barriers and historically
+  mapped transit access in Ho Chi Minh City
 message: If you use this repository, please cite it as below.
 type: software
 authors:
@@ -16,22 +15,16 @@ authors:
       University Ho Chi Minh City, Viet Nam
     email: lnhieu@ptit.edu.vn
 identifiers: []
-repository-code: ""
+repository-code: "https://github.com/occbuu/ttll-p3"
 url: ""
 abstract: >-
-  Replication package for the Truong Tho Living Lab Paper 3
-  analysis: survey-derived barrier structure, OpenStreetMap
-  accessibility measures, logistic and cross-validated
-  classifiers of motorcycle dependence, micro-enterprise
-  exposure, and the resident–official diagnostic gap.
+  Revised replication code and aggregate outputs linking 2023 resident
+  survey barriers to historical OpenStreetMap bus-stop proximity and
+  walking-network access, with spatial uncertainty and sensitivity analyses.
 keywords:
-  - travel habit
-  - socio-technical lock-in
-  - motorcycle dependence
-  - metro
-  - micro-enterprise
+  - public transport accessibility
+  - stated barriers
   - OpenStreetMap
   - Ho Chi Minh City
 license: CC-BY-4.0
-version: "1.0.0"
-date-released: "2026-09-18"
+version: "2.0.0-dev"

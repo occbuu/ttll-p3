@@ -42,7 +42,8 @@ Nếu git đã được khởi tạo sẵn trong thư mục này, chỉ cần th
 Trên GitHub: **Releases → Draft a new release**
 
 - Tag: `v1.0.0`
-- Title: `Paper 3 replication package v1.0.0`
+- Title: `v1.0.0 — TTLL P3`
+- Description: dán nguyên file `RELEASE_v1.0.0.md`
 - Publish release
 
 Zenodo sẽ tự tạo record và cấp DOI dạng `10.5281/zenodo.xxxxxxx`. Email xác nhận thường tới trong 1–5 phút.
